@@ -1,1 +1,1 @@
-Exploratory data analysis on student performance. analysing students marks in each subject. statistical analysis and graphical analysis using numpy, matplolib, seaborn. the data is skewed and some outliers also present in data.
+Exploratory data analysis on student performance. analysing students marks in each subject. statistical analysis and graphical analysis using numpy, matplolib, seaborn. the data is skewed and some outliers also present in data..
